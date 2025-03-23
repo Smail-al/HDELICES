@@ -1,5 +1,5 @@
-import React from 'react';
-import { motion } from 'framer-motion';
+import React from "react";
+import { motion } from "framer-motion";
 
 const About = () => {
   return (
@@ -17,15 +17,15 @@ const About = () => {
               Notre Histoire
             </h2>
             <p className="text-gray-600">
-              Depuis notre création, HDÉLICES s'est engagé à créer des moments de bonheur
-              à travers l'art de la pâtisserie. Notre passion pour l'excellence et
-              l'innovation nous pousse à repousser les limites de la créativité tout
-              en respectant les traditions artisanales.
+              Depuis notre création, HDÉLICES s'est engagé à créer des moments
+              de bonheur à travers l'art de la pâtisserie. Notre passion pour
+              l'excellence et l'innovation nous pousse à repousser les limites
+              de la créativité tout en respectant les traditions artisanales.
             </p>
             <p className="text-gray-600">
               Chaque création est le fruit d'un savoir-faire unique, transmis de
-              génération en génération, et d'une recherche constante de la perfection
-              dans les moindres détails.
+              génération en génération, et d'une recherche constante de la
+              perfection dans les moindres détails.
             </p>
             <div className="flex space-x-4">
               <div className="text-center">
@@ -51,7 +51,7 @@ const About = () => {
             className="relative h-[500px]"
           >
             <img
-              src="https://images.unsplash.com/photo-1556217477-d325251ece38?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="https://cdn.pixabay.com/photo/2019/02/19/12/49/a-sandwich-4006766_1280.jpg"
               alt="Notre atelier"
               className="w-full h-full object-cover rounded-lg shadow-xl"
             />
